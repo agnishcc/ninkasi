@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1692612634376,
+      "tag": "0000_lyrical_inhumans",
+      "breakpoints": true
+    }
+  ]
+}
