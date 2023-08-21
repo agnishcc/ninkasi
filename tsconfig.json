@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"lib": ["ES2020"],
+		"types": ["jest", "@cloudflare/workers-types"],
+		"strict": true /* Enable all strict type-checking options. */,
+		"plugins": [
+			{
+				"transform": "ts-auto-mock/transformer",
+				"cacheBetweenTests": false
+			}
+		]
+	}
+}
